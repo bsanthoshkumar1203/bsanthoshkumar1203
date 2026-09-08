@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="profile.png" width="180" style="border-radius:50;" alt="Santhosh Kumar" />
+  <img src="profile.png" width="180" style="border-radius:50%;" alt="Santhosh Kumar" />
 </p>
 
 <p align="center">
