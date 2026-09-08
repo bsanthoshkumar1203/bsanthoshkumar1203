@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=B%20SANTHOSH%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Developer%20%7C%20Java%20%26%20MERN&descAlignY=55&descSize=18" width="100%" alt="banner" />
+  <img src="banner.svg" width="100%" alt="banner" />
 </p>
 
 <p align="center">
@@ -320,5 +320,5 @@ Chennai, Tamil Nadu, India
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" width="100%" alt="footer banner" />
+  <img src="./assets/footer.svg" width="100%" alt="footer banner" />
 </p>
